@@ -4,10 +4,11 @@ Resolução do desafio para a exibição de página de detalhes de post da tabel
 
 ## Demonstração
 Exibição da página de detalhes de post:
-![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/75b0080d-31ee-4260-9874-26634779ce23)
+![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/654af850-e5c8-42a2-a754-ccd743485015)
 
 ### post na tabela do SUPABASE:
 ![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/7a435218-77c2-4408-b342-3bc8c582b283)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
