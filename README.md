@@ -1,3 +1,16 @@
+## Resolução de desafio
+
+Resolução do desafio para a exibição de página de detalhes de post da tabela de posts da minha base do SUPABASE, com base em documentação da API da SUPABASE.
+
+## Demonstração
+Exibição da página de detalhes de post:
+![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/75b0080d-31ee-4260-9874-26634779ce23)
+
+### post na tabela do SUPABASE:
+![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/7a435218-77c2-4408-b342-3bc8c582b283)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
