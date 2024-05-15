@@ -10,6 +10,10 @@ Exibição da página de detalhes de post:
 ### Tabela da minha base no SUPABASE:
 ![image](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/7a435218-77c2-4408-b342-3bc8c582b283)
 
+### Contextualização: Tela inicial de posts que leva até à tela de detalhes de post (tela da lógica do desafio proposto, primeira imagem) com base no post selecionado
+![Posts_Tela_Inicial](https://github.com/dig-ie/trilha-react-Next.js-desafio/assets/101150281/c56cf65e-7ef7-4f82-9676-9b809936f0df)
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
